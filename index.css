@@ -1,0 +1,10 @@
+.card {
+	height: 120px;
+	width: 80px;
+	display: inline-block;
+	background-color: green;
+	margin: 20px;
+	vertical-align: top;
+	font-size: 48px;
+	text-align: center;
+}
